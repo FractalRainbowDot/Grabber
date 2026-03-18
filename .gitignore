@@ -1,0 +1,9 @@
+.venv
+.env
+build
+ffmpeg.exe
+ffplay.exe
+ffprobe.exe
+ProVideoGrabber.spec
+.idea
+ProVideoGrabber.exe
